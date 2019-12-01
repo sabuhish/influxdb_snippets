@@ -2,7 +2,6 @@
 
 
 
-----
 ## usage
 1. pip install -r req.txt.
 
